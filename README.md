@@ -1,1 +1,1 @@
-you can view the live website on https://tariqueforum.netlify.app
+you can view the live website on https://tariquemedics.netlify.app/
